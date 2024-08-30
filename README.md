@@ -1,4 +1,4 @@
-# Appikur.github.io
+
 <div align="center">
 
 ![Appikür Logo](logo.png)
@@ -26,3 +26,5 @@ Embark on a journey through endless possibilities in the world of apps.
 *"Where every tap opens a door to wonder."*
 
 </div>
+
+# Appikur.github.io
