@@ -12,7 +12,7 @@ Embark on a journey through endless possibilities in the world of apps.
 
 ---
 
-### 🚀 [Explore Now](https://mactr.github.io/Appikur/) 🔍 [About Us](https://mactr.github.io) 📞 [Contact](appikur.studio@gmail.com)
+### 🚀 [Explore Now](https://mactr.github.io/Appikur/) 🔍 [About Us](https://github.com/MACtr) 📞 [Contact](appikur.studio@gmail.com)
 
 ---
 
